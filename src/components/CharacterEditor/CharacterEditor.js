@@ -82,6 +82,7 @@ function App() {
 					</div>
 				</div>
 			</MaxWidthWrapper>
+			<div className={styles.bottomBar} />
 		</main>
 	);
 }
